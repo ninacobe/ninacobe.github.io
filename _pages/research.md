@@ -13,13 +13,13 @@ author_profile: true
 
   
 ### Conference proceedings
-1. [Counterfactual inference of second Opinions](https://proceedings.mlr.press/v180/corvelo-benz22a.html)  
+1. [Counterfactual Inference of Second Opinions](https://proceedings.mlr.press/v180/corvelo-benz22a.html)  
   *38th Conference on Uncertainty in Artificial Intelligence, 2022*  
   Nina L. Corvelo Benz and Manuel Gomez Rodriguez  
 
 
   
 ### Workshops
-1. Counterfactual inference of second Opinions  
+1. Counterfactual Inference of Second Opinions  
   *ICML Workshop on Human-Machine Collaboration and Teaming, Baltimore, July 2022*  
   Nina L. Corvelo Benz and Manuel Gomez Rodriguez 
