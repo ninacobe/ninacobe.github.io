@@ -12,8 +12,8 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 ### Preprints
-1. [Human-Aligned Calibration for AI-Assisted Decision Making](https://arxiv.org/abs/2306.00074)
-   Nina L. Corvelo Benz and Manuel Gomez Rodriguez
+1. [Human-Aligned Calibration for AI-Assisted Decision Making](https://arxiv.org/abs/2306.00074)  (Full paper)
+ Nina L. Corvelo Benz and Manuel Gomez Rodriguez
 
   
 ### Conference proceedings
@@ -27,6 +27,6 @@ author_profile: true
 1. Counterfactual Inference of Second Opinions  
   *ICML Workshop on Human-Machine Collaboration and Teaming, Baltimore, July 2022*  
   Nina L. Corvelo Benz and Manuel Gomez Rodriguez
-2. Human-Aligned Calibration for AI-Assisted Decision Making 
+2. Human-Aligned Calibration for AI-Assisted Decision Making  
   *ICML Workshop on Artificial Intelligence & Human-Computer Interaction, Hawaii, July 2023*  
   Nina L. Corvelo Benz and Manuel Gomez Rodriguez 
