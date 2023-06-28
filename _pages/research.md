@@ -12,7 +12,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 ### Preprints
-1. [Human-Aligned Calibration for AI-Assisted Decision Making](https://arxiv.org/abs/2306.00074)  (Full paper)
+1. [Human-Aligned Calibration for AI-Assisted Decision Making](https://arxiv.org/abs/2306.00074) (Full paper)  
  Nina L. Corvelo Benz and Manuel Gomez Rodriguez
 
   
