@@ -11,15 +11,17 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 
-### Preprints
-1. [Human-Aligned Calibration for AI-Assisted Decision Making](https://arxiv.org/abs/2306.00074) (Full paper)  
- Nina L. Corvelo Benz and Manuel Gomez Rodriguez
+<!-- ### Preprints -->
+
 
   
 ### Conference proceedings
+1. [Human-Aligned Calibration for AI-Assisted Decision Making](https://arxiv.org/abs/2306.00074)   
+  *37th Conference on Neural Information Processing Systems, 2023*   
+  Nina L. Corvelo Benz and Manuel Gomez Rodriguez   
 1. [Counterfactual Inference of Second Opinions](https://proceedings.mlr.press/v180/corvelo-benz22a.html)  
   *38th Conference on Uncertainty in Artificial Intelligence, 2022*  
-  Nina L. Corvelo Benz and Manuel Gomez Rodriguez  
+  Nina L. Corvelo Benz and Manuel Gomez Rodriguez
 
 
   
