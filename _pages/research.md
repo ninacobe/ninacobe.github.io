@@ -17,7 +17,7 @@ author_profile: true
 
 1. [Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes](https://arxiv.org/pdf/2407.13052)  
    *In Arxiv, 2024*  
-   Seungeon Lee, \textbf{Nina Corvelo Benz}, Suhas Thejaswi, Manuel Gomez-Rodriguez  
+   Seungeon Lee, Nina Corvelo Benz, Suhas Thejaswi, Manuel Gomez-Rodriguez  
   
 ### Conference proceedings
 1. [Human-Aligned Calibration for AI-Assisted Decision Making](https://arxiv.org/abs/2306.00074)   
