@@ -32,7 +32,7 @@ author_profile: true
 ### Workshops
 1. Counterfactual Inference of Second Opinions  
   *ICML Workshop on Human-Machine Collaboration and Teaming, Baltimore, July 2022*  
-  Nina L. Corvelo Benz and Manuel Gomez Rodriguez
+  Nina L. Corvelo Benz and Manuel Gomez-Rodriguez
 2. Human-Aligned Calibration for AI-Assisted Decision Making  
   *ICML Workshop on Artificial Intelligence & Human-Computer Interaction, Hawaii, July 2023*  
-  Nina L. Corvelo Benz and Manuel Gomez Rodriguez 
+  Nina L. Corvelo Benz and Manuel Gomez-Rodriguez 
