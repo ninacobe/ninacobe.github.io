@@ -15,8 +15,8 @@ author_profile: true
 
 ### Pre-print
 
-1. [Counterfactual Token Generation in Large Language Models](https://arxiv.org/abs/2409.17027) 
-   *In Arxiv, 2024*
+1. [Counterfactual Token Generation in Large Language Models](https://arxiv.org/abs/2409.17027)    
+   *In Arxiv, 2024*   
    Ivi Chatzi, Nina Corvelo Benz, Eleni Straitouri, Stratis Tsirtsis, Manuel Gomez-Rodriguez
 1. [Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes](https://arxiv.org/pdf/2407.13052)  
    *In Arxiv, 2024*  
