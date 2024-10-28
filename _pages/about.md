@@ -15,4 +15,4 @@ I am currently doing a research visit at the MPI of Biochemistry hosted by [Prof
 Trivia
 ------
 * My academic background is in computer science from [ETH Zurich](https://inf.ethz.ch/) with focus on theoretical computer science, randomized algorithms and probabilistic methods.
-* I am half Brazilian and half German and lived for 9 years in both countries.
+* I am half Brazilian and half German and lived for 9 years in both countries, I have also lived in Switzerland, South Korea, and Australia.
