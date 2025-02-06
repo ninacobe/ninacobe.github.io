@@ -73,7 +73,7 @@ papers:
       multi-drug antibiotics that are highly relevant in clinical practice. We successfully evaluated our ap-
       proach on a set of highly relevant antibiotics, commonly used in clinics to treat infections with Klebsiella
       pneumoniae and Escherichia coli.
-    selected: y
+    selected: n
 
   - title: "Counterfactual Token Generation in Large Language Models"
     authors: "Ivi Chatzi<sup>‡</sup>, <b>Nina Corvelo Benz<sup>‡</sup></b>, Eleni Straitouri<sup>‡</sup>, Stratis Tsirtsis<sup>‡</sup>, Manuel Gomez-Rodriguez"
@@ -98,7 +98,7 @@ papers:
       generated text. We conclude with a demonstrative application of counterfactual token generation for
       bias detection, unveiling interesting insights about the model of the world constructed by large language
       models.
-    selected: y
+    selected: n
 
   - title: "Matchings, Predictions and Counterfactual Harm in Refugee Resettlement Processes"
     authors: "Seungeon Lee, <b>Nina Corvelo Benz</b>, Suhas Thejaswi, Manuel Gomez-Rodriguez"
@@ -126,7 +126,7 @@ papers:
       resettlement processes using synthetic refugee data created from publicly available sources suggest
       that our methodology may be effective in making algorithmic placement decisions that are less likely
       to be harmful than existing solutions.
-    selected: y
+    selected: n
 
   - title: "Human-Aligned Calibration for AI-Assisted Decision Making"
     authors: "<b>Nina Corvelo Benz</b> and Manuel Gomez-Rodriguez"
@@ -182,7 +182,7 @@ papers:
       from data. Experiments on both synthetic and real
       data show that our model can be used to infer second opinions more accurately than its non-causal
       counterpart.
-    selected: y
+    selected: n
 
   - title: "Call admission problems on trees"
     authors: "Hans-Joachim Böckenhauer, <b>Nina Corvelo Benz</b>, Dennis Komm (A)"
