@@ -13,7 +13,8 @@ ul.tab-nav li .button {
     font-size: 13px;
     font-weight: 500;
     color: #555;
-    border-color: #bbb;
+/*     border-color: #bbb; */
+    background-color: transparent;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     margin-bottom: -1px;
