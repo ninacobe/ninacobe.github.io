@@ -9,17 +9,20 @@ ul.tab-nav li {
     display: inline;
 }
 
-ul.tab-nav li .button-primary {
+ul.tab-nav li .button {
     font-size: 13px;
     font-weight: 500;
+    color: #555;
+    border: 1px solid #bbb;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     margin-bottom: -1px;
     border-bottom: none;
 }
 
-ul.tab-nav li .active.button-primary {
+ul.tab-nav li .active.button {
     border-bottom: 1px solid #fff;
+    border-color: #888;
     color: #000;
     font-weight: 600;
 }
