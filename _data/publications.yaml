@@ -13,6 +13,7 @@ papers:
     venue: "ArXiv preprint, 2025."
     paper_pdf: "https://arxiv.org/pdf/2501.14035"
     code: "https://github.com/Networks-Learning/human-alignment-study"
+    abstract: "To do"
     selected: y
     
   - title: "Antimicrobial drug recommendation from MALDI-TOF mass spectrometry with statistical guarantees using conformal prediction"
