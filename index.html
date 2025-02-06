@@ -57,8 +57,8 @@ title: Home
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
             {% if paper.abstract %}
-              <a class="button" onclick="toggleCodeText()">Abstract</a>
-              <p id="abstract-text" class="abstract-text">{{ paper.abstract }}</p>
+              <a class="button" onclick="toggleCodeText('abstract-text-selected-{{ forloop.index }}')">Abstract</a>
+              <p id="abstract-text-selected-{{ forloop.index }}" class="abstract-text">{{ paper.abstract }}</p>
             {% endif %}
              
             {% if paper.paper_pdf %}
@@ -98,8 +98,8 @@ title: Home
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
             {% if paper.abstract %}
-              <a class="button" onclick="toggleCodeText()">Abstract</a>
-<!--               <p id="abstract-text" class="abstract-text">{{ paper.abstract }}</p> -->
+              <a class="button" onclick="toggleCodeText('abstract-text-all-{{ forloop.index }}')">Abstract</a>
+              <p id="abstract-text-all-{{ forloop.index }}" class="abstract-text">{{ paper.abstract }}</p>
             {% endif %}
              
             {% if paper.paper_pdf %}
@@ -242,8 +242,8 @@ title: Home
 </div>  
 
 <script>
-function toggleCodeText() {
-  var codeText = document.getElementById('abstract-text');
+function toggleCodeText(id) {
+  var codeText = document.getElementById(id);
   if (abstractText.style.display === 'none') {
     abstractText.style.display = 'block';
   } else {
