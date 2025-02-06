@@ -13,7 +13,8 @@ papers:
     venue: "ArXiv preprint, 2025."
     paper_pdf: "https://arxiv.org/pdf/2501.14035"
     code: "https://github.com/Networks-Learning/human-alignment-study"
-    abstract: >State of the art large language models rely on randomization to respond to a prompt. As an
+    abstract: >
+    State of the art large language models rely on randomization to respond to a prompt. As an
 immediate consequence, a model may respond differently to the same prompt if asked multiple times.
 In this work, we argue that the evaluation and ranking of large language models should control for the
 randomization underpinning their functioning. Our starting point is the development of a causal model
