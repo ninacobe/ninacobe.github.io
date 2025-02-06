@@ -5,6 +5,7 @@ papers:
     venue: "ArXiv preprint, 2025."
     paper_pdf: "https://arxiv.org/pdf/2502.01754"
     code: "https://github.com/Networks-Learning/coupled-llm-evaluation"
+    abstract: "To do"
     selected: y
     
   - title: "Human-Alignment Influences the Utility of AI-assisted Decision Making"
