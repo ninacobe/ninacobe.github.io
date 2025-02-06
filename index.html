@@ -56,6 +56,12 @@ title: Home
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
+            {% if paper.abstract %}
+              <a class="button" target="_blank">Data</a>
+              <button class="button" onclick="toggleCodeText()">Abstract</button>
+              <p id="abstract-text" class="abstract-text">{{ paper.abstract }}</p>
+            {% endif %}
+             
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
             {% endif %}
@@ -80,12 +86,6 @@ title: Home
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
             {% endif %}
 
-            {% if paper.abstract %}
-              <a class="button" target="_blank">Data</a>
-              <button class="button" onclick="toggleCodeText()">Abstract</button>
-              <p id="code-text" style="display: none;">{{ paper.abstract }}</p>
-            {% endif %}
-
           </div>
         </div>
       {% endfor %}
@@ -98,6 +98,12 @@ title: Home
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
+            {% if paper.abstract %}
+              <a class="button" target="_blank">Data</a>
+              <button class="button" onclick="toggleCodeText()">Abstract</button>
+              <p id="abstract-text" class="abstract-text">{{ paper.abstract }}</p>
+            {% endif %}
+             
             {% if paper.paper_pdf %}
               <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
             {% endif %}
