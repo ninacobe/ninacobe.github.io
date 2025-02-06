@@ -95,7 +95,7 @@
   margin-top: -10px;
   background: #fff;
   border-radius: 10px;
-  border: 4px solid rgb(213, 214, 115);
+  border: 4px solid rgb(193, 210, 157);
   z-index: 10;
 }
 
@@ -136,7 +136,8 @@
   
   line-height: 1em;
   font-size: 0.66666em;
-  color: rgb(51, 0, 111);
+  color: rgb(193, 210, 157);
+/*   color: rgb(51, 0, 111); */
   vertical-align: middle;
 }
 
@@ -245,7 +246,7 @@
     margin-left: -9px;
     background: #fff;
     border-radius: 10px;
-    border: 4px solid rgb(213, 214, 115);
+    border: 4px solid rgb(193, 210, 157);
     z-index: 10;
   }
 
