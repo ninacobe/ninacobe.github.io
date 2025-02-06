@@ -58,7 +58,6 @@ title: Home
            <div class="paper-buttons">
             {% if paper.abstract %}
               <a class="button" onclick="toggleCodeText('abstract-text-selected-{{ forloop.index }}')">Abstract</a>
-              <p id="abstract-text-selected-{{ forloop.index }}" class="abstract-text" style="display: none;">{{ paper.abstract }}</p>
             {% endif %}
              
             {% if paper.paper_pdf %}
@@ -83,6 +82,10 @@ title: Home
 
             {% if paper.data %}
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+            {% endif %}
+
+            {% if paper.abstract %}
+              <p id="abstract-text-selected-{{ forloop.index }}" class="abstract-text" style="display: none;">{{ paper.abstract }}</p>
             {% endif %}
 
           </div>
@@ -99,7 +102,6 @@ title: Home
            <div class="paper-buttons">
             {% if paper.abstract %}
               <a class="button" onclick="toggleCodeText('abstract-text-all-{{ forloop.index }}')">Abstract</a>
-              <p id="abstract-text-all-{{ forloop.index }}" class="abstract-text" style="display: none;">{{ paper.abstract }}</p>
             {% endif %}
              
             {% if paper.paper_pdf %}
@@ -124,6 +126,10 @@ title: Home
 
             {% if paper.data %}
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+            {% endif %}
+
+            {% if paper.abstract %}
+              <p id="abstract-text-all-{{ forloop.index }}" class="abstract-text" style="display: none;">{{ paper.abstract }}</p>
             {% endif %}
 
           </div>
