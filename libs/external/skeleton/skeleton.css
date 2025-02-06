@@ -173,7 +173,7 @@ input[type="button"] {
   display: inline-block;
   height: 38px;
   padding: 0 30px;
-  color: #555;
+  color: #C1D29D;
   text-align: center;
   font-size: 11px;
   font-weight: 600;
@@ -202,8 +202,7 @@ input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
   color: #FFF;
-  background-color: #C1D29D;
-  border-color: #C1D29D;
+  border-color: #888;
   outline: 0; }
 .button.button-primary,
 button.button-primary,
