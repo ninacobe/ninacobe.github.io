@@ -73,7 +73,7 @@ papers:
       multi-drug antibiotics that are highly relevant in clinical practice. We successfully evaluated our ap-
       proach on a set of highly relevant antibiotics, commonly used in clinics to treat infections with Klebsiella
       pneumoniae and Escherichia coli.
-    selected: n
+    selected: y
 
   - title: "Counterfactual Token Generation in Large Language Models"
     authors: "Ivi Chatzi<sup>‡</sup>, <b>Nina Corvelo Benz<sup>‡</sup></b>, Eleni Straitouri<sup>‡</sup>, Stratis Tsirtsis<sup>‡</sup>, Manuel Gomez-Rodriguez"
