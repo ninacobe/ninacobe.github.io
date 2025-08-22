@@ -28,8 +28,8 @@ papers:
     
   - title: "Human-Alignment Influences the Utility of AI-assisted Decision Making"
     authors: "<b>Nina Corvelo Benz</b> and Manuel Gomez-Rodriguez"
-    venue: "ArXiv preprint, 2025."
-    paper_pdf: "https://arxiv.org/pdf/2501.14035"
+    venue: "Scientific Reports, 2025."
+    paper_pdf: "https://rdcu.be/ezYV8"
     code: "https://github.com/Networks-Learning/human-alignment-study"
     abstract: > 
       Whenever an AI model is used to predict a relevant (binary) outcome in AI-assisted decision making,
@@ -48,10 +48,10 @@ papers:
       utility of AI-assisted decision making.
     selected: y
     
-  - title: "Antimicrobial drug recommendation from MALDI-TOF mass spectrometry with statistical guarantees using conformal prediction"
+  - title: "Detecting Antimicrobial Resistance Through MALDI-TOF Mass Spectrometry with Statistical Guarantees Using Conformal Prediction"
     authors: "<b>Nina Corvelo Benz<sup>‡</sup></b>, Lucas Miranda<sup>‡</sup>, Dexiong Chen, Karsten Borgwardt, Janko Sattler"
     venue: "29th Conference on Research in Computational Molecular Biology, 2025"
-    # paper_pdf: "/assets/publications/2024_supernotes/paper.pdf"
+    paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-031-90252-9_5"
     code: "https://github.com/BorgwardtLab/ConformalAMR"
     abstract: >
       Antimicrobial resistance (AMR) is a global health challenge, complicating the treatment of
