@@ -1,6 +1,11 @@
 experiences:
+- place: "MPI of Biochemistry, Germany"
+  time: "2025 - present"
+  title: "Postdoc"
+  category: "work"
+  
 - place: "MPI for Software Systems, Germany"
-  time: "2021 - present"
+  time: "2021 - 2025"
   title: "Ph.D. Student in Computer Science"
   subtitle: "Human-Centric Machine Learning"
   category: "school"
