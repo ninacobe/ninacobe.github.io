@@ -20,7 +20,7 @@ papers:
 
   - title: "Towards Human-AI Complementarity in Matching Tasks"
     authors: "Adrian Arnaiz-Rodriguez, <b>Nina Corvelo Benz</b>, Suhas Thejaswi, Nuria Oliver, and Manuel Gomez-Rodriguez"
-    venue: "ArXiv preprint, 2025."
+    venue: "The Third Workshop on Hybrid Human-Machine Learning and Decision Making (HLDM'25) at ECML-PKDD 2025, 2025"
     paper_pdf: "https://arxiv.org/abs/2508.13285"
     code: "https://github.com/Networks-Learning/human-AI-complementarity-matching"
     abstract: >
