@@ -1,5 +1,28 @@
 papers:
 
+  - title: "Learning to Decide with AI Assistance under Human-Alignment"
+    authors: "<b>Nina Corvelo Benz</b>, Eleni Straitouri, Manuel Gomez-Rodriguez"
+    venue: "ArXiv preprint, 2026."
+    paper_pdf: "https://arxiv.org/abs/2605.12646"
+    abstract: >
+      It is widely agreed that when AI models assist decision-makers in high-stakes domains by predicting
+      an outcome of interest, they should communicate the confidence of their predictions. However, empirical
+      evidence suggests that decision-makers often struggle to determine when to trust a prediction based
+      solely on this communicated confidence. In this context, recent theoretical and empirical work suggests
+      a positive correlation between the utility of AI-assisted decision-making and the degree of alignment
+      between the AI confidence and the decision-makers’ confidence in their own predictions. Crucially, these
+      findings do not yet elucidate the extent to which this alignment influences the complexity of learning
+      to make optimal decisions through repeated interactions. In this paper, we address this question in the
+      canonical case of binary predictions and binary decisions. We first show that this problem is equivalent
+      to a two-armed online contextual learning problem with full feedback, and establish a lower bound of Ω(√|H|·|B|·T ) on the expected regret any learner can attain, where H and B denote the sets of human
+      and AI confidence values. We then demonstrate that, under perfect alignment between AI and human
+      confidence, a learner can attain an expected regret of O(√|H|·T log T ) and, when √|H| = O(log T )and B is countable, a non-trivial generalization of the Dvoretzky-Kiefer-Wolfowitz inequality improves
+      the regret bound to O(√T log T ). Taken together, these results reveal that alignment can reduce the
+      complexity of learning to make decisions with AI assistance. Experiments on real data from two different
+      human-subject studies where participants solve simple decision-making tasks assisted by AI models show
+      that our theoretical results are robust to violations of perfect alignment.
+    selected: y
+    
   - title: "Tokenization Multiplicity Leads to Arbitrary Price Variation in LLM-as-a-service"
     authors: "Ivi Chatzi, <b>Nina Corvelo Benz</b>, Stratis Tsirtsis, Manuel Gomez-Rodriguez"
     venue: "ArXiv preprint, 2025."
@@ -82,7 +105,7 @@ papers:
       our results also show that post-processing the AI confidence values to achieve multicalibration with respect
       to the participants’ confidence on their own predictions increases both the degree of alignment and the
       utility of AI-assisted decision making.
-    selected: y
+    selected: n
     
   - title: "Detecting Antimicrobial Resistance Through MALDI-TOF Mass Spectrometry with Statistical Guarantees Using Conformal Prediction"
     authors: "<b>Nina Corvelo Benz<sup>‡</sup></b>, Lucas Miranda<sup>‡</sup>, Dexiong Chen, Karsten Borgwardt, Janko Sattler"
